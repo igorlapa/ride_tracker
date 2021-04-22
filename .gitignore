@@ -46,3 +46,7 @@ ride_tracker.iml
 .idea/compiler.xml
 .idea/artifacts/ride_tracker_war_exploded.xml
 .idea/artifacts/ride_tracker_war.xml
+/.idea/dataSources/205bd2b4-6755-40e3-aa85-0a468dca32f0.xml
+/.idea/dataSources.xml
+/.idea/dataSources/205bd2b4-6755-40e3-aa85-0a468dca32f0/storage_v2/_src_/schema/information_schema.FNRwLQ.meta
+/.idea/sqldialects.xml
